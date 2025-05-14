@@ -11,23 +11,12 @@ In today's fast-paced and competitive educational environment, understanding the
 
 ## 📂 Repository Structure
 ```
-|-- data/                              # Datasets
+|-- data/                              # Dataset
 |-- queries/                           # SQL script files
-|   |-- avg_exam_score_by_study_and_extracurricular.sql
-|   |-- avg_exam_score_by_hours_studied_range.sql
-|   |-- student_exam_ranking.sql
 |-- images/                            # Dashboard
 |-- README.md                          # Project documentation
 ```
 
 
-## 🌟 Insights
-- Students who studied more than 10 hours weekly and participated in extracurriculars showed higher average exam scores.
-- There seems to be a 'sweet spot' for study hours, where too few or too many hours may not be optimal.
-- Class rankings provide motivation and a sense of competition without compromising student privacy.
 
-## ✨ Future Enhancements
-- Integrate visualizations for deeper insights.
-- Explore additional factors like parental involvement or socioeconomic status.
-- Build a predictive model to forecast student success based on these parameters.
 
